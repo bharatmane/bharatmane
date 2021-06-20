@@ -3,14 +3,11 @@
 
 ## I'm a Developer!!
 
-> If it is to be... It is up to me!
->              ― William Johnsen
-
-- 💯  Faith! Creator of miracles, so always have it your side.
-- 🌱 I’m currently learning React.js 😇
+- 💯  Faith! If it is to be... It is up to me!.
+- 🌱 I’m currently learning JAVA 😇
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Be Craftsman
-- ⚡ Fun fact: I love to be in gym all day 😝
+- ⚡ Fun fact: I can talk to any one any time, all the time... 😝
 - 💬 Ask me about anything here...
 
 ## Me Social@!! <a href="#welcome-badges-4-readmemd-profile"><g-emoji class="g-emoji" alias="top" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f51d.png">🔝</g-emoji></a>
