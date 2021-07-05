@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Bharat
-#### If it is to be...It is up tp me
+#### If it is to be...It is up to me
 Skills: .NET / JS / ANGULAR / HTML / CSS / UI/UX / CRAFTSMANSHIP
 
 - 🔭 I’m currently working on Clean Code 
