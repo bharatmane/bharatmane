@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Bharat
 #### If it is to be...It is up to me
-Skills: .NET / JS / ANGULAR / HTML / CSS / UI/UX / CRAFTSMANSHIP
+Skills: CRAFTSMANSHIP/ .NET / JavaScript / ANGULAR / HTML / CSS / UI/UX  
 
 - 🔭 I’m currently working on Clean Code 
-- 🌱 I’m currently learning JAVA 
+- 🌱 Exploring the fascinating world of JAVA 
 - 👯 I’m looking to collaborate on Craftsmanship 
 
 <!--
